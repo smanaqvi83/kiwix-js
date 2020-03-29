@@ -36,7 +36,9 @@ require.config({
         'jquery': 'jquery-3.2.1.slim',
         'bootstrap': 'bootstrap.bundle',
         'fontawesome': 'fontawesome/fontawesome',
-        'fontawesome-solid': 'fontawesome/solid'
+        'fontawesome-solid': 'fontawesome/solid',
+        'kiwixUtil': '../kiwixUtil',
+        'articleUtil': '../articleUtil'
     },
     shim: {
         'jquery' : {
